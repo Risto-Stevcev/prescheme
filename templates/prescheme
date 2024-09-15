@@ -1,0 +1,4 @@
+#!/bin/sh
+scheme48=/usr/local/lib/scheme48-1.9.2/scheme48vm
+prescheme=/usr/local/lib/scheme48-1.9.2/prescheme.image
+exec ${scheme48} -i ${prescheme} "$@"

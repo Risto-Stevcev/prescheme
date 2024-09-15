@@ -1,0 +1,10 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib/scheme48-1.9.2
+includedir=${prefix}/include
+
+Name: Pre-Scheme (Scheme 48)
+Description: Pre-Scheme C runtime
+Version: 1.9.2
+Libs: -L${libdir} -lprescheme
+Cflags: -I${includedir}
