@@ -15,8 +15,8 @@ Hello, world, Risto!
 ```
 
 
-- [Scheme48](https://s48.org/1.9.2/)
-- [Manual](https://tailcall.au/s48-refman/scheme48.html#Condition-system)
+- [Scheme48](https://s48.org/)
+- [Manual](https://tailcall.au/s48-refman/scheme48.html)
 - [Example](https://tailcall.au/s48-refman/scheme48.html#Example-Pre_002dScheme-compiler-usage)
 - [SystemCrafters tutorial video](https://www.youtube.com/watch?v=QqKuHylIqBs)
 - [Note on reproducibility of guix recipe](https://issues.guix.gnu.org/61852)
